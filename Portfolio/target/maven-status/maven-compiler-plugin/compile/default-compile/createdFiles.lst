@@ -8,6 +8,7 @@ com\JulietaNothoff\Portfolio\repository\RHys.class
 com\JulietaNothoff\Portfolio\entity\Educacion.class
 com\JulietaNothoff\Portfolio\security\Entity\UsuarioPrincipal.class
 com\JulietaNothoff\Portfolio\security\Entity\Rol.class
+com\JulietaNothoff\Portfolio\WebConfig.class
 com\JulietaNothoff\Portfolio\entity\Person.class
 com\JulietaNothoff\Portfolio\security\Service\RolService.class
 com\JulietaNothoff\Portfolio\controller\CExperiencia.class
